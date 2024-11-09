@@ -1,0 +1,17 @@
+{
+    "description": "Site with mini-games using a JS with recording of game records and the ability to log into your personal account",
+    "domain": "localplayer.dev",
+    "subdomain": "kamad",
+
+    "owner": {
+        "repo": "https://github.com/MihailProhorenko",
+        "email": "mihail2004.p@gmail.com"
+    },
+
+    "record": {
+        "A": ["185.158.114.109"],
+        "NS": ["blakely.ns.cloudflare.com", "greg.ns.cloudflare.com"],
+    },
+
+    "proxied": false
+}
